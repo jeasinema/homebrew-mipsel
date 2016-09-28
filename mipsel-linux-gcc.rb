@@ -5,7 +5,7 @@ class MipselLinuxGcc < Formula
     homepage 'http://www.gnu.org/software/gcc/gcc.html'
     url 'ftp://gcc.gnu.org/pub/gcc/releases/gcc-6.2.0/gcc-6.2.0.tar.bz2'
     mirror 'http://ftpmirror.gnu.org/gcc/gcc-6.2.0/gcc-6.2.0.tar.bz2'
-    sha512 '1e8b826a3d44b9d5899309894e20c03abeb352bf3d273b8ad63af814c0ee2911f1a83ce1cd4cdd2d1cb0b3e3c34e9b7ae1b2ab83dfc649ee817ab05247c76198'
+    md5 '9768625159663b300ae4de2f4745fcc4'
 
     depends_on 'gmp'
     depends_on 'libmpc'
